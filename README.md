@@ -1,6 +1,7 @@
 # Conference proposals
 > A list of conference talk proposals I've sent out.  Inspired by @MylesBorins.
 
+- [Using BigQuery and Machine Learning to analyze Reddit](big-data-machine-learning-reddit.md)
 - [Semver is a lie](semver-is-a-lie.md)
 - [The server strikes back](the-server-strikes-back.md)
 - [TypeScript migrations at scale](typescript-migration.md)
