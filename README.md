@@ -1,5 +1,5 @@
 # Conference proposals
-> A list of conference talk proposals I've sent out.  Inspired by @MylesBorins.
+> A list of conference talk proposals I've sent out.  Inspired by [@MylesBorins](https://github.com/MylesBorins).
 
 - [Using BigQuery and Machine Learning to analyze Reddit](big-data-machine-learning-reddit.md)
 - [Get microservicey with Kubernetes, gRPC, and Node.js](kubernetes-grpc-nodejs.md)
